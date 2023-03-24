@@ -13,7 +13,8 @@
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBandeiraSilva&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBandeiraSilva&layout=compact&theme=synthwave)](https://github.com/LucasBandeiraSilva/github-readme-stats)
 
-![spider-man-ps4](https://user-images.githubusercontent.com/126296297/227531533-3ae0501d-507c-445e-aef0-638b3783b531.gif)
+![spider-man-ps4](https://user-images.githubusercontent.com/126296297/227531533-3ae0501d-507c-445e-aef0-638b3783b531.gif)![little-spidey-spiderman](https://user-images.githubusercontent.com/126296297/227531968-2c8eb3c8-a444-4591-8c06-ef25d0777862.gif)
+
 
 # Frases motivacionais
 <blockquote>
