@@ -29,6 +29,8 @@
 ![Amazon](https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white)
 
 ![little-spidey-spiderman](https://user-images.githubusercontent.com/126296297/227531968-2c8eb3c8-a444-4591-8c06-ef25d0777862.gif)
+
+
 # Frases motivacionais
 <blockquote>
 <p>As grandes coisas de hoje surgem das cinzas de ontem. – Superman</p>
