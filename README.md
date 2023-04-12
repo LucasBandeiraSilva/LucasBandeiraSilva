@@ -10,7 +10,7 @@
 ![jAVAsCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
+ #
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBandeiraSilva&show_icons=true&theme=synthwave) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBandeiraSilva&layout=compact&theme=synthwave)](https://github.com/LucasBandeiraSilva/github-readme-stats)
 
