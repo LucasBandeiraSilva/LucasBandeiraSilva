@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Lucas Bandeira 🤙🤙🤙
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasbandeira10/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasbandeira_10/)
 
 # Linguagens de desenvolvimento
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
